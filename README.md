@@ -5,7 +5,7 @@
 <!--
 **ashishsaranshakya/ashishsaranshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-##About Me
+## About Me
 Hi, I am Ashish
 - 🔭 I’m currently working on Battery Manager(Hobby Project)
 - 🌱 I’m currently learning Web development 
