@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+![Ashish Saran shakya22](https://user-images.githubusercontent.com/74979286/198375270-ead74fcb-3a8d-45b4-b174-99fbf9c654f3.png)
+
 <!--
 **ashishsaranshakya/ashishsaranshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Ashish Saran shakya22](https://user-images.githubusercontent.com/74979286/198375270-ead74fcb-3a8d-45b4-b174-99fbf9c654f3.png)
 
 Here are some ideas to get you started:
 
