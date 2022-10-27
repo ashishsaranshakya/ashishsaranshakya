@@ -1,6 +1,9 @@
+![Mast Head](https://user-images.githubusercontent.com/74979286/198380669-a89c3420-8000-4510-8628-4fbbc23cb5eb.png)
+
 ### Hi there 👋
 
-![Ashish Saran shakya22](https://user-images.githubusercontent.com/74979286/198375270-ead74fcb-3a8d-45b4-b174-99fbf9c654f3.png)
+
+<!--img width="824" alt="Screenshot 2022-10-28 005533" src="https://user-images.githubusercontent.com/74979286/198380669-a89c3420-8000-4510-8628-4fbbc23cb5eb.png"-->
 
 <!--
 **ashishsaranshakya/ashishsaranshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
