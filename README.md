@@ -20,5 +20,3 @@ Hi, I am Ashish
 - 👯 I’m looking to collaborate on Android projects
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
-
-- It will work also for email addresses: <email@example.com> <!--(you may write vaild email links also using [mailto](mailto:email@example.com) as protocol)-->
