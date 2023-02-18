@@ -15,11 +15,11 @@ You can find me here :
 
 ## About Me
 Hi, I am Ashish
-- 🔭 I am an undergraduate pursuing Bachelor's in Computer Science from India!
-- 🔭 I’m currently working on <a href="https://github.com/ashishsaranshakya/Battery-Manager">Battery Manager</a> (Hobby Project)
-- 🔭 I contribute to an open source <a href="https://github.com/therealsujitk/android-vtop-chennai">android application</a> made for students of my college.
-- 🌱 I’m currently learning Web development 
-- 👯 I’m looking to collaborate on Android projects
+- I am an undergraduate from India pursuing Bachelor's in Computer Science.
+- I’m currently working on <a href="https://github.com/ashishsaranshakya/Battery-Manager">Battery Manager</a> (Hobby Project)
+- I contribute to an open source <a href="https://github.com/therealsujitk/android-vtop-chennai">android application</a> made for students of my college.
+- I’m currently learning Web development 
+- I’m looking to collaborate on Android projects
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 
