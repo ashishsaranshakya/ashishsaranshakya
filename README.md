@@ -33,7 +33,7 @@ Hi, I am Ashish
 <table>
   <tr>
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsaranshakya&theme=radical" alt="pradhyumanarora">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsaranshakya&theme=radical" alt="ashishsaranshakya">
       </p>
   </tr>
 </table>
