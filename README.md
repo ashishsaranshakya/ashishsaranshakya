@@ -4,8 +4,6 @@
 
 <!--ashishsaranshakya/ashishsaranshakya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsaranshakya&label=Profile%20views&color=0e75b6&style=flat" alt="pradhyumanarora" /> </p-->
-
 You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/ashish-saran-shakya-3a223b19b/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -16,9 +14,10 @@ You can find me here :
 ## About Me
 Hi, I am Ashish
 - I am an undergraduate from India pursuing Bachelor's in Computer Science.
+- I recently participated in a mobile application development competition focused sustainability and made <a href="https://github.com/ashishsaranshakya/Waste-Management">WasteLess</a> and app for Sustainable Waste Management
+- I contribute to an open source android application <a href="https://github.com/therealsujitk/android-vtop-chennai">VIT Student</a>, an application made for students of my college.
 - I’m currently working on <a href="https://github.com/ashishsaranshakya/Battery-Manager">Battery Manager</a> (Hobby Project)
-- I contribute to an open source <a href="https://github.com/therealsujitk/android-vtop-chennai">android application</a> made for students of my college.
-- I’m currently learning Web development 
+- I’m currently learning node.js and React.js
 - I’m looking to collaborate on Android projects
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
