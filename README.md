@@ -36,7 +36,3 @@ Hi, I am Ashish
       </p>
   </tr>
 </table>
-
-
-[![Ashish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashishsaranshakya&theme=github)](https://github.com/ashishsaranshakya)
-
