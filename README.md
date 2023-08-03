@@ -53,11 +53,12 @@ Hi, I am Ashish
     <td><img src="https://github-readme-stats.vercel.app/api?username=ashishsaranshakya&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsaranshakya&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
    </tr>
-</table>
-<table>
   <tr>
+    <td colspan="2">
     <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsaranshakya&theme=radical" alt="ashishsaranshakya">
-      </p>
+      <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsaranshakya&theme=radical" alt="ashishsaranshakya"-->
+      <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsaranshakya&theme=dracula" alt="a2ys" /></p>
+    </p>
+  </td>
   </tr>
 </table>
