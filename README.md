@@ -22,6 +22,8 @@ Hi, I am Ashish
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsaranshakya&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsaranshakya" /> </p>
+
 ## Tech Stack
 
 <p align="left">
