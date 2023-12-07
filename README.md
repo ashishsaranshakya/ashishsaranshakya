@@ -64,6 +64,3 @@ Hi, I am Ashish
   </td>
   </tr>
 </table>
-
-## My Github Metrics :
-![GitHub metrics](https://metrics.lecoq.io/ashishsaranshakya)  
