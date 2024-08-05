@@ -13,12 +13,12 @@ You can find me here :
 
 ## About Me
 Hi, I am Ashish
-- I am an undergraduate from India pursuing Bachelor's in Computer Science.
-- Developed a <a href="https://github.com/ashishsaranshakya/personal-expenses-tracker">Personal Expense Tracker</a> web application to help users manage their finances efficiently.
-- Created a <a href="https://github.com/ashishsaranshakya/Chat-Easy">ChatEasy</a>, a Real-Time Chat Application for Android, enabling seamless communication.
+- I am an undergraduate from India pursuing Bachelor's of Technology in Computer Science and Engineering.
+- I have developed a <a href="https://github.com/ashishsaranshakya/personal-expenses-tracker">Personal Expense Tracker</a> web application to help users manage their finances efficiently.
+- I have developed <a href="https://github.com/ashishsaranshakya/Chat-Easy">ChatEasy</a>, a Real-Time Chat Application for Android, enabling seamless communication.
 - I contribute to an open source android application <a href="https://github.com/therealsujitk/android-vtop-chennai">VIT Student</a>, an application made for students of my college.
-- I’m currently learning AWS and Machine Learning
-- I’m looking to collaborate on Web Development and Android projects
+- I’m currently learning AWS and Spring Boot.
+- I’m looking to collaborate on Web Development and Android projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishsaranshakya&label=Profile%20views&color=0e75b6&style=flat" alt="ashishsaranshakya" /> </p>
 
